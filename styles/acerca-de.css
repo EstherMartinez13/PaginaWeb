@@ -1,0 +1,44 @@
+.acerca {
+    margin-bottom: 20px;
+}
+
+.acerca-titulo {
+    font-size: 36px;
+}
+
+.acerca-descripcion {
+    font-size: 20px;
+}
+
+.mision-vision {
+    display: flex;
+
+}
+
+.mision {
+    padding: 10px;
+}
+
+.mision-titulo{
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+.mision-descripcion{
+    font-size: 20px;
+}
+
+
+.vision {
+    padding: 10px;
+}
+
+
+.vision-titulo{
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+.vision-descripcion{
+    font-size: 20px;
+}

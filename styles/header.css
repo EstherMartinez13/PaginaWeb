@@ -1,0 +1,45 @@
+.navbar {
+    background-color: violet;
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+}
+
+.navbar-menu {
+    width: 50%;
+    display: flex;
+}
+
+.navbar-menu-item {
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.navbar-menu-item:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.navbar-menu-item a {
+    text-decoration: none;
+}
+
+.menu-item-text {
+    font-size: 28px;
+    color: black;
+}
+
+.navbar-search {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-text {
+    width: 80%;
+    height: 32px;
+    border-color: gray;
+    padding-left: 8px;
+}
